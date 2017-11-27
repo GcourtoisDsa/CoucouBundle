@@ -1,5 +1,5 @@
 {
-  "name": "Dsatec/CoucouBundle",
+  "name": "dsatec/coucou-bundle",
   "description": "A coucou bundle",
   "type": "symfony-bundle",
   "authors": [
