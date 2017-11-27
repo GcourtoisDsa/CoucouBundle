@@ -1,0 +1,34 @@
+{
+  "name": "Dsatec/CoucouBundle",
+  "description": "A coucou bundle",
+  "type": "symfony-bundle",
+  "authors": [
+    {
+      "name": "demo",
+      "email": "demo@company.com"
+    }
+  ],
+  "keywords": [
+    "coucou bundle"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-0": {
+      "Dsatec\\CoucouBundle": ""
+    }
+  },
+  "target-dir": "Dsatec/CoucouBundle",
+  "repositories": [
+    {
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "some_version-dev"
+    }
+  }
+}
